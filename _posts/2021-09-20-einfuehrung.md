@@ -6,10 +6,15 @@ date: 2021-09-20
 Zuerst eine kleine Rechnung, die allgemein mit unserem Teilzeitstudium zu tun hat und bei der Einführung der Dozenten zum erwarteten Aufwand erwähnt wurde.
 
 BAIN	4 ECTS Punkte
+
 DIGI	4 ECTS Punkte
+
 SESY	4 ECTS Punkte
+
 USAB	4 ECTS Punkte
+
 PK	6 ECTS Punkte
+
 Total  22 ECTS Punkte => 660h für ein Semester
 
 Übrigens: die Uni Bern empfiehlt bei einem Vollzeitstudium 30 ECTS Punkte pro Semester
