@@ -17,7 +17,7 @@ PK	6 ECTS Punkte
 
 Total  22 ECTS Punkte => 660h für ein Semester
 
-Übrigens: die Uni Bern empfiehlt bei einem Vollzeitstudium 30 ECTS Punkte pro Semester  [https://www.unibe.ch/studium/studienangebote/aufbau__und__struktur/ects_punkte_und_notensystem/index_ger.html](https://www.unibe.ch/studium/studienangebote/aufbau__und__struktur/ects_punkte_und_notensystem/index_ger.html)
+Übrigens: die Uni Bern empfiehlt bei einem Vollzeitstudium 30 ECTS Punkte pro Semester    [https://www.unibe.ch/studium/studienangebote/aufbau__und__struktur/ects_punkte_und_notensystem/index_ger.html](https://www.unibe.ch/studium/studienangebote/aufbau__und__struktur/ects_punkte_und_notensystem/index_ger.html)
 
 Aufgeteilt auf 16 Wochen (13.9. – 14.1.) => 41.25h pro Woche. Wenn man nun eine Teilzeitanstellung von ca 25h (60% bei 42h/W) dazurechnet: 66.25h pro Woche. 
 Bei 42h/W wäre das fast ein 160%-Pensum über 16 Wochen.
