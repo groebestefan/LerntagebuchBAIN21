@@ -1,5 +1,5 @@
 ---
-title: "Uebungen zur 2.Vorlesung"
+title: "Übungen zur 2.Vorlesung"
 date: 2021-10-01
 ---
 Zuerst ein Geständnis:   
