@@ -1,3 +1,7 @@
+---
+title: "Uebungen zur 2.Vorlesung"
+date: 2021-10-01
+---
 Zuerst ein Geständnis:   
 Insgeheim hoffte ich, die Dozenten können mein Problem mit der KOHA-Bibliothek (siehe letzter Eintrag) nicht vor der nächsten Vorlesung lösen und ich käme somit um die Aufgabe der Installation und Einrichtung von KOHA und somit auch um diesen Eintrag herum. Denn wie Anfangs dieses Tagebuches beschrieben, versucht unsereins jede Stunde weniger Aufwand herauszuschinden. Ich weiss, ich weiss – ich sollte dankbar für die Hilfe sein und ich bin es auch wirklich!!!
 
