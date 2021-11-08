@@ -3,8 +3,8 @@ title: "Uebungen zur 3. Vorlesung"
 date: 2021-10-08
 ---
 
-Zu der Transferaufgabe "Installation ArchivesSpaces" gibt es sehr wenig zu schreiben. Ich gab die Befehle ein, das System reagierte und ich wartete.....wartete....wartete....
-Bis ich realisierte, dass immer wieder die gleichen Zeilen, Befehle etc über den Terminal liefen. Erst da realisierte ich, dass es, wie beschrieben, eine Webanwendung und somit nie fertig auf meiner VDI installiert ist. Wieder was gelernt. Wenigstens nützte ich die Wartezeit zur Weiterbildung:
+Zu der Transferaufgabe "Installation ArchivesSpace" gibt es wenig zu schreiben. Ich gab die Befehle ein, das System reagierte und ich wartete.....wartete....wartete....
+Bis ich bemerkte, dass immer wieder die gleichen Zeilen, Befehle etc über den Terminal liefen. Erst da realisierte ich, was es damit auf sich hat, als es hiess ArchivesSpace sei eine Webanwendung. Es läuft im Terminal immer weiter und wird nie auf meiner VDI nie installiert seinauf meiner VDI installiert sein. Wieder was gelernt. Wenigstens nützte ich die Wartezeit zur Weiterbildung:
 
 Ich klickte mich nochmals durch das gemeinsame Dokument der heutigen Vorlesung. 
 Was ist eigentlich ein Raspberry Pi? Dieses "Ding", also besser gesagt sein Name, lief mir schon mehrmals über den Weg und ich hatte noch immer keinen blassen Schimmer. Ich lud mir die Folien von avengingchicken.online mal runter und versuchte sie zu lesen. Doch für mich als Laien und um diese Tageszeit (ca 21:30) war nichts mehr in den Kopf zu bringen.
