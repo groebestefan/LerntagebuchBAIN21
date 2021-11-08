@@ -1,3 +1,8 @@
+---
+title: "Uebungen zur 3. Vorlesung"
+date: 2021-10-08
+---
+
 Zu der Transferaufgabe "Installation ArchivesSpaces" gibt es sehr wenig zu schreiben. Ich gab die Befehle ein, das System reagierte und ich wartete.....wartete....wartete....
 Bis ich realisierte, dass immer wieder die gleichen Zeilen, Befehle etc über den Terminal liefen. Erst da realisierte ich, dass es, wie beschrieben, eine Webanwendung und somit nie fertig auf meiner VDI installiert ist. Wieder was gelernt. Wenigstens nützte ich die Wartezeit zur Weiterbildung:
 
