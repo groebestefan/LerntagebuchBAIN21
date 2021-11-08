@@ -1,3 +1,8 @@
+---
+title: "Uebungen zur 4. Vorlesung"
+date: 2021-10-08
+---
+
 Irgendwas habe ich gemacht und irgendwas entstand, respektive wurde importiert und exportier – aber ob's so stimmt?
 
 Also zuerst gelangte ich nach Anleitung via Create und Background Job zu Import Data.
