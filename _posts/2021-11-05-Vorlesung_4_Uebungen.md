@@ -1,11 +1,11 @@
 ---
 title: "Uebungen zur 4. Vorlesung"
-date: 2021-10-08
+date: 2021-11-05
 ---
 
 Irgendwas habe ich gemacht und irgendwas entstand, respektive wurde importiert und exportier – aber ob's so stimmt?
 
-Also zuerst gelangte ich nach Anleitung via Create und Background Job zu Import Data.
+Also zuerst gelangte ich nach Anleitung via *Create* und *Background Job* zu *Import Data*.
 Der Link zu den zu importierenden Files funktionierte auch, doch wie die Sache importieren? Wenn man das XML-File anklickte, öffnete es einfach eine neue Seite auf welcher der XML-Code ersichtlich war. Nach einigem hin- und herklicken, kopierte ich das XML in ein neues Dokument vom Text Editor, speicherte diesen auf dem Desktop und lud dieses Dokument dann mit *Add file* ins Archive Space. 
 Unter *Browse > Resources* fand ich dann auch den Eintrag.
 
