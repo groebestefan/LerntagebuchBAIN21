@@ -1,3 +1,8 @@
+---
+title: "Übungen zur 7.Vorlesung"
+date: 2021-12-03
+---
+
 Ich muss noch vorausschicken, dass ich erst kurz vor der achten Vorlesung zum Schauen des Videos "VuFind: Configuring Search and Facet Settings" kam. Grund dafür waren Probleme bei der Installation von VuFind. Zweimaliges Zurücksetzen und erneutes Installieren halfen leider auch nicht.   
 Weitere Abklärungen der Dozenten ergaben, dass von der früheren KOHA-Installation her, der Webserver irrtümlich versuchte Anfragen an KOHA anstatt an VuFind weiterzuleiten. Ob es irgendwie mit den Problemen bei der KOHA-Installation zusammenhängt? Ich fragte mal bei den Dozenten nach. Falls ja, reiche ich die Antwort noch nach.
 
