@@ -1,0 +1,24 @@
+Zuerst muss ich mich anscheinend bei den Dozenten Felix Lohmeyer und Sebastian Meyer entschuldigen. In den letzten Wochen habe ich sie frisch-fröhlich mit all meinen Blogs vollgeschrieben und erst jetzt realisiere ich, dass ein Teil dessen gar nicht nötig gewesen wäre. Ich hoffe, es findet sich in den all den Beiträgen zu den Übungen auch brauchbares Material um bewertet zu werden.   
+
+Zurück zum Unterricht:   
+Wir wurden auf den Unterschied von webbasiert und cloudbasiert hingewiesen. Ich muss zugeben, dass ich mich das bisher nicht achtete und wohl auch nie wirklich darüber nachdachte. Zumindest im Beitrag über ALMA ist es richtig vermerkt.    
+Für die Greenhorns (also auch mich):
+Bei beiden Arten von Systemen wird der Zugang über den Browser geöffnet – sonst wäre es auf dem eigenen Server (sagt man dann serverbasiert?). Also sind zum Beispiel ALMA und KOHS webbasiert. Jedoch kann es sich dabei um ein "kleines" System handeln, welches nur für einen Benutzer, für eine Firma, etc zugänglich ist; zum Beispiel KOHA.
+Oder wenn man von cloudbasiert spricht, greift man auf ein System zu, welches "gross" ist und auf welches viele Anwender oder Instanzen Zugriff haben; zum Beispiel ALMA.
+   
+Den besprochenen Problemen bei Import und Export auf ArchivesSpaces werde ich mich später widmen und eventuell im nächsten Blogeintrag noch etwas dazu schreiben. Wie im letzten Eintrag erwähnt, kam ich mit dieser Aufgabe auch nicht wirklich klar.
+
+Zum Abschnitt "Marktüberblick Archivsysteme" kann ich eigentlich nicht viel Eigenes beitragen, ausser, dass an der FHGR nun auch Herr Tobias Wildi unterrichtet, welcher bei Docuteam arbeitet – oder arbeitete, so genau bin ich nicht informiert.   
+
+Bei den Unterschieden von Archiv- und Bibliothekssystemen, respektive den Institutionen kann ich erneut auf die Unterlagen vom ersten Semester zurückgreifen und noch ein paar Ergänzungen vorbringen:   
+Die Erschliessung in einem Archiv erfolgt über die Ordnung und Verzeichnung nach Provenienz. In der Bibliothek es das Katalogisieren, nach Regeln/Standard.   
+Der Zugang ist bei Bibliotheken meistens frei, gegen Anmeldung und einer (kleinen) Gebühr kann man die Dokumente/Bücher auch ausleihen. Im Archiv ist der Zugang nur unter Vorbehalt von gesetzlichen Schutzfristen möglich (online oder vor Ort) und normalerweise ist keine Ausleihe möglich.   
+Weiter Unterschiede sind ganz von der Systemfrage gelöst und in diesem Zusammenhang nicht von Belang.
+
+Beim Stichwort "Repository" erinnere ich mich an ein vergangenes Projekt, welches wir an der FHGR durchführen durften/mussten. Es ging um sogenannte CRIS - Current Research Information Systems und die Arbeitsfrage lautete:   
+„Wie können CRIS in der Schweiz für das OA-Monitoring eingesetzt werden? Und welche möglichen Zusatznutzen, und für wen, würden sie bieten?‟   
+Die Arbeit sollte noch immer im Google Drive abrufbar sein:
+https://docs.google.com/document/d/1R3npDeufxxvMnhJqdyGHTh4XtkNsEQr7jzD4n2OmhDo/edit#heading=h.tj3agwj1pbwm   
+Ich glaube, sie wurde von den Dozenten nie irgendwo vorgestellt oder veröffentlicht. Unter dem Strich blieb mir vor Allem, dass CRIS eine sinnvolle Lösung für das Monitoring wären aber dazu Universitäten und Fachhochschulen in der Schweiz (oder gar Europa) sich möglichst auf ein System einigen müssten.... Kantönligeist lässt grüssen ....
+
+Zu DSpace gibt es wiedermal zu sagen: solange man auf dem Pfad der Anleitungen blieb, lief alles paletti. Aber das System so wirklich begreifen und durchschauen könnte man erst durch den alltäglichen Gebrauch in der Arbeit – also learning by doing. Das dies uns die Dozenten nicht beibringen können ist auch absolut klar. 
