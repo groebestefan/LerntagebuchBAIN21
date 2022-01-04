@@ -1,3 +1,7 @@
+---
+title: "Uebungen zur 5. Vorlesung"
+date: 2021-11-19
+---
 Ich machte mich zuerst nochmals an die Aufgabe mit ArchivesSpace. Diesesmal klickte ich die gewünschte XML-Datei mit der rechten Maustaste an, wählte "Save Link As..." und übernahm es in den Ordner "Downloads". Nachher gings im ArchivesSpace über Create usw wieder zum Import. Die Datei war einfach hochzuladen – wiedermal was gelernt, wenn auch nicht eines der Kernthemen in diesem Modul, aber man nimmt, was man bekommt.
 Dann: "... already in use..." – ich interpretierte das so, dass diese Datei schon einmal vorhanden ist und ich (wenn auch mit Umwegen) zumindest dies richtig machte.
 
