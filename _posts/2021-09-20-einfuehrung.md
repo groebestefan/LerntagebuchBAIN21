@@ -2,7 +2,10 @@
 title: "Und los geht's"
 date: 2021-09-20
 ---
-
+>*Ein Vorwort, das im Nachhinein geschrieben wurde:   
+Meine Einträge sind zum Teil geschwätzig, abschweifend und eventuell auch ein wenig launisch; ich hielt mich gleich mit dem ersten Eintrag (unabsichtlich) nicht an die Vorgaben und packte Erwartungen & 1.Vorlesungen in einen Text, etc....   
+Doch entschied ich mich nach der abschliessenden Durchsicht, die Text so abzugeben, wie ich sie schrieb. Ich denke, das gibt mein Denken und Lernen am besten wieder.*
+   
 Zuerst eine kleine Rechnung, die allgemein mit unserem Teilzeitstudium zu tun hat und bei der Einführung der Dozenten zum erwarteten Aufwand erwähnt wurde.
 
 BAIN	4 ECTS Punkte
