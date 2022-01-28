@@ -8,7 +8,7 @@ Weitere Abklärungen der Dozenten ergaben, dass von der früheren KOHA-Installat
 
 So widmete ich mich danach dem Video zu den Such- und Facetteneinstellungen. Mein Problem war und ist, dass ich bei dieser Materie schon auf Deutsch und gut & geduldig erklärt nicht immer ganz einfach folgen konnte und so wurde es auf Englisch leider nicht einfacher. Wäre es die Idee gewesen, dass wir selber in den Code gehen und diese Änderungen bei den Begriffen der Suchoptionen oder bei der Reihenfolge der Treffer nachmachen? Wenn ja, hatte ich es völlig verpasst, wie ich dorthin komme. Also schaute und hört ich einfach zu und versuchte den Faden nicht zu verlieren. Bei der jeweiligen Demonstration konnte ich es auch nachvollziehen, wieso zum Beispiel "Author" zu "Person who created Stuff" wird – könnte man von mir aus gleich so lassen. Und bei der Anzahl angezeigten Treffer wäre ich für "42", da 42 ja die Antwort auf alles ist.
 
-PS: Gemäss Dozenten ist ein Zusammenhang zwischen den Installationsproblemen bei KOHA und VuFind sehrwarscheinlich. Gemäss Herrn Sebastian Meyer seien im Apache Webserver die Einstellungen für die KOHA-Installation verändert worden. Was mich nur irritiert ist, dass weder ich noch Herr Felix Lohmeier etwas an Apache änderten. Er benützte die Befehle:   
+PS: Gemäss Dozenten ist ein Zusammenhang zwischen den Installationsproblemen bei KOHA und VuFind sehrwahrscheinlich. Gemäss Herrn Sebastian Meyer seien im Apache Webserver die Einstellungen für die KOHA-Installation verändert worden. Was mich nur irritiert ist, dass weder ich noch Herr Felix Lohmeier etwas an Apache änderten. Er benützte die Befehle:   
 "sudo systemctl restart koha-common"   
 "sudo koha-remove bibliothek"   
 "sudo koha-create --create-db bibliothek"   
