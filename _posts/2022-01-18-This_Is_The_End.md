@@ -11,11 +11,11 @@ Und da die Daten vom FTP Server abgeholt werden, geht man beim Protokoll von FTP
 **Nachtrag 2** - offene Fragen zu BIBFRAME: am Beispiel "Winnie-the-Pooh" (das Original, nicht der Disney-Verschnitt!) konnte ich nachvollziehen, dass der Illustrator Ernst H. Shepard auch als *Agent* gilt aber mit der *role "illus."*
     
     </bf:agent>   
-<bf:role >   
-<bf:Role >   
-<rdfs:label >illus</rdfs:label>   
-</bf:Role>   
-</bf:role>    
+    <bf:role >   
+    <bf:Role >   
+    <rdfs:label >illus</rdfs:label>   
+    </bf:Role>   
+    </bf:role>    
 
 ... und sofern ich das BIBFRAME(XML) richtig interpretiere ist die ISBN eine SubClass vom *identifier* und dieser kommt beim XML zwischen den Einträgen von *Instance*.   
 => [https://id.loc.gov/tools/bibframe/compare-lccn/full-rdf?find=73174934](https://id.loc.gov/tools/bibframe/compare-lccn/full-rdf?find=73174934)   
