@@ -8,7 +8,7 @@ Thalia hat mit ThaliaLight noch ein eigenes Format für kleine Verlage, damit di
 Die Aufbereitung geschieht über einen Seeburger Konverter für das SAP Pricat-IDoc. => Seeburger ist ein Unternehmen unter anderem für den Bereich Datenaustausch, auf SAP basiert unser System und Pricat ist wiederum ein Format für Katalogs- und Preisformaten.   
 Und da die Daten vom FTP Server abgeholt werden, geht man beim Protokoll von FTP aus – File Transfer Protocol: ein Protokoll für den Transfer von Dateien (es war einmal das Modul ARIS...)   
    
-**Nachtrag 2** - offene Fragen zu BIBFRAME: am Beispiel "Winnie-the-Pooh" (das Original, nicht der Disney-Verschnitt!) konnte ich nachvollziehen, dass der Illustrator Ernst H. Shepard auch als *Agent* gilt aber mit der *role* *illus.*
+**Nachtrag 2** - offene Fragen zu BIBFRAME: am Beispiel "Winnie-the-Pooh" (das Original, nicht der Disney-Verschnitt!) konnte ich nachvollziehen, dass der Illustrator Ernst H. Shepard auch als *Agent* gilt aber mit der *role "illus."*
     
 ></bf:agent>   
 <bf:role >   
