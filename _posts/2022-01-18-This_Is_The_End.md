@@ -3,12 +3,12 @@ title: "This is the end"
 date: 2022-01-18
 ---
 
-**Nachtrag 1**: ich fragte endlich wegen dem Datenaustausch unserer Buchhandlung bei der Stammdatenbetreuung bei Thaila in Hagen nach (wo unser Server steht) und erhielt zügig eine Antwort. Viele Lieferanten benützen proprietäre Formate, welche also nur für den jeweiligen Lieferant gelten. Die Daten vom VLB und auch von Zeitfracht (ehem KNV), BZ und Libri werden in ONIX übertragen. ONIX (musste ich zuerst nachschauen) steht für ONline Information eXchange und ist ein Datenformat für bibliografische Artikel, das über die ganze Verwertungskette des Buchhandels funktionieren sollte. Es basiert wie viele andere Formate auch auf XML.
+**Nachtrag 1**: Ich fragte endlich wegen dem Datenaustausch unserer Buchhandlung bei der Stammdatenbetreuung bei Thaila in Hagen nach (wo unser Server steht) und erhielt zügig eine Antwort. Viele Lieferanten benützen proprietäre Formate, welche also nur für den jeweiligen Lieferant gelten. Die Daten vom VLB und auch von Zeitfracht (ehem KNV), BZ und Libri werden in ONIX übertragen. ONIX (musste ich zuerst nachschauen) steht für ONline Information eXchange und ist ein Datenformat für bibliografische Artikel, das über die ganze Verwertungskette des Buchhandels funktionieren sollte. Es basiert wie viele andere Formate auch auf XML.
 Thalia hat mit ThaliaLight noch ein eigenes Format für kleine Verlage, damit diese die Daten im .csv-Format zur Verfügung stellen können.   
 Die Aufbereitung geschieht über einen Seeburger Konverter für das SAP Pricat-IDoc. => Seeburger ist ein Unternehmen unter anderem für den Bereich Datenaustausch, auf SAP basiert unser System und Pricat ist wiederum ein Format für Katalogs- und Preisformaten.   
 Und da die Daten vom FTP Server abgeholt werden, geht man beim Protokoll von FTP aus – File Transfer Protocol: ein Protokoll für den Transfer von Dateien (es war einmal das Modul ARIS...)   
    
-**Nachtrag 2** - offene Fragen zu BIBFRAME: am Beispiel "Winnie-the-Pooh" (das Original, nicht der Disney-Verschnitt!) konnte ich nachvollziehen, dass der Illustrator Ernst H. Shepard auch als *Agent* gilt aber mit der *role "illus."*
+**Nachtrag 2** - offene Fragen zu BIBFRAME: Am Beispiel "Winnie-the-Pooh" (das Original, nicht der Disney-Verschnitt!) konnte ich nachvollziehen, dass der Illustrator Ernst H. Shepard auch als *Agent* gilt aber mit der *role "illus."*
     
     </bf:agent>   
        <bf:role >   
